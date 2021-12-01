@@ -1,0 +1,1 @@
+In fisier sunt 2 vocale, anume ['A', 'a']
